@@ -1,0 +1,8 @@
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\NetFramework\bin\Debug\NetFramework.exe.config
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\NetFramework\bin\Debug\NetFramework.exe
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\NetFramework\bin\Debug\NetFramework.pdb
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\NetFramework\obj\Debug\NetFramework.csproj.AssemblyReference.cache
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\NetFramework\obj\Debug\NetFramework.csproj.SuggestedBindingRedirects.cache
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\NetFramework\obj\Debug\NetFramework.csproj.CoreCompileInputs.cache
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\NetFramework\obj\Debug\NetFramework.exe
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\NetFramework\obj\Debug\NetFramework.pdb

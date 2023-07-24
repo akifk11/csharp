@@ -1,0 +1,8 @@
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\NetFramework.S7.D2.MetotOdev1\bin\Debug\NetFramework.S7.D2.MetotOdev1.exe.config
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\NetFramework.S7.D2.MetotOdev1\bin\Debug\NetFramework.S7.D2.MetotOdev1.exe
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\NetFramework.S7.D2.MetotOdev1\bin\Debug\NetFramework.S7.D2.MetotOdev1.pdb
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\NetFramework.S7.D2.MetotOdev1\obj\Debug\NetFramework.S7.D2.MetotOdev1.csproj.AssemblyReference.cache
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\NetFramework.S7.D2.MetotOdev1\obj\Debug\NetFramework.S7.D2.MetotOdev1.csproj.SuggestedBindingRedirects.cache
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\NetFramework.S7.D2.MetotOdev1\obj\Debug\NetFramework.S7.D2.MetotOdev1.csproj.CoreCompileInputs.cache
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\NetFramework.S7.D2.MetotOdev1\obj\Debug\NetFramework.S7.D2.MetotOdev1.exe
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\NetFramework.S7.D2.MetotOdev1\obj\Debug\NetFramework.S7.D2.MetotOdev1.pdb
