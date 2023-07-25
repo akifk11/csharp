@@ -30,13 +30,15 @@ namespace NetFramework.S7.D2.MetotOdev1
             Console.Write("Not 2:");
             not2 = int.Parse(Console.ReadLine());
 
-            Console.Write("Not 3:");
+            Console.Write("Not 3:  ");
             not3 = int.Parse(Console.ReadLine());
 
             ogrenci O = new ogrenci();
             O.ogrenciNotHesapla(ogrenciAd, ogrenciSoyad, not1, not2, not3);
 
             Console.ReadKey();
+
+            // Acun medya akademi
         }
     }
 }

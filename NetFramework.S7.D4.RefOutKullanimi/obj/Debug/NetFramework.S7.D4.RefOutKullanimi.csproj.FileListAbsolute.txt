@@ -1,0 +1,8 @@
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\NetFramework.S7.D4.RefOutKullanimi\bin\Debug\NetFramework.S7.D4.RefOutKullanimi.exe.config
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\NetFramework.S7.D4.RefOutKullanimi\bin\Debug\NetFramework.S7.D4.RefOutKullanimi.exe
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\NetFramework.S7.D4.RefOutKullanimi\bin\Debug\NetFramework.S7.D4.RefOutKullanimi.pdb
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\NetFramework.S7.D4.RefOutKullanimi\obj\Debug\NetFramework.S7.D4.RefOutKullanimi.csproj.AssemblyReference.cache
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\NetFramework.S7.D4.RefOutKullanimi\obj\Debug\NetFramework.S7.D4.RefOutKullanimi.csproj.SuggestedBindingRedirects.cache
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\NetFramework.S7.D4.RefOutKullanimi\obj\Debug\NetFramework.S7.D4.RefOutKullanimi.csproj.CoreCompileInputs.cache
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\NetFramework.S7.D4.RefOutKullanimi\obj\Debug\NetFramework.S7.D4.RefOutKullanimi.exe
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\NetFramework.S7.D4.RefOutKullanimi\obj\Debug\NetFramework.S7.D4.RefOutKullanimi.pdb
