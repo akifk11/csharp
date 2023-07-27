@@ -1,0 +1,8 @@
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\NetFramework.S9.D1.KapsullemeNedir\bin\Debug\NetFramework.S9.D1.KapsullemeNedir.exe.config
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\NetFramework.S9.D1.KapsullemeNedir\bin\Debug\NetFramework.S9.D1.KapsullemeNedir.exe
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\NetFramework.S9.D1.KapsullemeNedir\bin\Debug\NetFramework.S9.D1.KapsullemeNedir.pdb
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\NetFramework.S9.D1.KapsullemeNedir\obj\Debug\NetFramework.S9.D1.KapsullemeNedir.csproj.AssemblyReference.cache
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\NetFramework.S9.D1.KapsullemeNedir\obj\Debug\NetFramework.S9.D1.KapsullemeNedir.csproj.SuggestedBindingRedirects.cache
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\NetFramework.S9.D1.KapsullemeNedir\obj\Debug\NetFramework.S9.D1.KapsullemeNedir.csproj.CoreCompileInputs.cache
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\NetFramework.S9.D1.KapsullemeNedir\obj\Debug\NetFramework.S9.D1.KapsullemeNedir.exe
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\NetFramework.S9.D1.KapsullemeNedir\obj\Debug\NetFramework.S9.D1.KapsullemeNedir.pdb
