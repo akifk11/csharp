@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{96603539-1972-49F1-B865-D7C81E8E7BFA}</ProjectGuid>
+    <ProjectGuid>{841EF2FC-2B19-4522-A57A-D2DF4E904B4E}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>NetFramework.S10.D1.StaticNedir</RootNamespace>
-    <AssemblyName>NetFramework.S10.D1.StaticNedir</AssemblyName>
+    <RootNamespace>NetFramework.S12.D1.KalitimNedir</RootNamespace>
+    <AssemblyName>NetFramework.S12.D1.KalitimNedir</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Ogrenci.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

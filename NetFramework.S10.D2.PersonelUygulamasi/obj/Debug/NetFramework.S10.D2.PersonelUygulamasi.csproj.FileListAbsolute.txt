@@ -1,0 +1,8 @@
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\NetFramework.S10.D2.PersonelUygulamasi\bin\Debug\NetFramework.S10.D2.PersonelUygulamasi.exe.config
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\NetFramework.S10.D2.PersonelUygulamasi\bin\Debug\NetFramework.S10.D2.PersonelUygulamasi.exe
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\NetFramework.S10.D2.PersonelUygulamasi\bin\Debug\NetFramework.S10.D2.PersonelUygulamasi.pdb
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\NetFramework.S10.D2.PersonelUygulamasi\obj\Debug\NetFramework.S10.D2.PersonelUygulamasi.csproj.AssemblyReference.cache
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\NetFramework.S10.D2.PersonelUygulamasi\obj\Debug\NetFramework.S10.D2.PersonelUygulamasi.csproj.SuggestedBindingRedirects.cache
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\NetFramework.S10.D2.PersonelUygulamasi\obj\Debug\NetFramework.S10.D2.PersonelUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\NetFramework.S10.D2.PersonelUygulamasi\obj\Debug\NetFramework.S10.D2.PersonelUygulamasi.exe
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\NetFramework.S10.D2.PersonelUygulamasi\obj\Debug\NetFramework.S10.D2.PersonelUygulamasi.pdb

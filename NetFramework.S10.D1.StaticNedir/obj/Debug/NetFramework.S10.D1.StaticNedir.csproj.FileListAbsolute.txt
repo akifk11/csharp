@@ -1,0 +1,8 @@
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\NetFramework.S10.D1.StaticNedir\obj\Debug\NetFramework.S10.D1.StaticNedir.csproj.AssemblyReference.cache
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\NetFramework.S10.D1.StaticNedir\obj\Debug\NetFramework.S10.D1.StaticNedir.csproj.SuggestedBindingRedirects.cache
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\NetFramework.S10.D1.StaticNedir\obj\Debug\NetFramework.S10.D1.StaticNedir.csproj.CoreCompileInputs.cache
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\NetFramework.S10.D1.StaticNedir\bin\Debug\NetFramework.S10.D1.StaticNedir.exe.config
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\NetFramework.S10.D1.StaticNedir\bin\Debug\NetFramework.S10.D1.StaticNedir.exe
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\NetFramework.S10.D1.StaticNedir\bin\Debug\NetFramework.S10.D1.StaticNedir.pdb
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\NetFramework.S10.D1.StaticNedir\obj\Debug\NetFramework.S10.D1.StaticNedir.exe
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\NetFramework.S10.D1.StaticNedir\obj\Debug\NetFramework.S10.D1.StaticNedir.pdb

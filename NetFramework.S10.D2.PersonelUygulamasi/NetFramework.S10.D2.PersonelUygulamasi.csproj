@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{96603539-1972-49F1-B865-D7C81E8E7BFA}</ProjectGuid>
+    <ProjectGuid>{1B8D29C1-91E9-4E57-9EB8-C60A14A6C339}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>NetFramework.S10.D1.StaticNedir</RootNamespace>
-    <AssemblyName>NetFramework.S10.D1.StaticNedir</AssemblyName>
+    <RootNamespace>NetFramework.S10.D2.PersonelUygulamasi</RootNamespace>
+    <AssemblyName>NetFramework.S10.D2.PersonelUygulamasi</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Ogrenci.cs" />
+    <Compile Include="Helper.cs" />
+    <Compile Include="Personel.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
