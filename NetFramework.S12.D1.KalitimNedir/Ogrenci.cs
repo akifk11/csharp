@@ -6,7 +6,15 @@ using System.Threading.Tasks;
 
 namespace NetFramework.S12.D1.KalitimNedir
 {
-    internal class Ogrenci
+    public class Ogrenci:temelTip
     {
+        public string bolum { get; set; }
+        public int seviye { get; set; }
+        
+        public Ogrenci() 
+        {
+            Console.WriteLine("Ogrenci nesnesi çalıştı");
+        
+        }
     }
 }

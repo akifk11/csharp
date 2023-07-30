@@ -1,0 +1,8 @@
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\NetFramework.S12.D1.KalitimNedir\bin\Debug\NetFramework.S12.D1.KalitimNedir.exe.config
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\NetFramework.S12.D1.KalitimNedir\bin\Debug\NetFramework.S12.D1.KalitimNedir.exe
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\NetFramework.S12.D1.KalitimNedir\bin\Debug\NetFramework.S12.D1.KalitimNedir.pdb
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\NetFramework.S12.D1.KalitimNedir\obj\Debug\NetFramework.S12.D1.KalitimNedir.csproj.AssemblyReference.cache
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\NetFramework.S12.D1.KalitimNedir\obj\Debug\NetFramework.S12.D1.KalitimNedir.csproj.SuggestedBindingRedirects.cache
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\NetFramework.S12.D1.KalitimNedir\obj\Debug\NetFramework.S12.D1.KalitimNedir.csproj.CoreCompileInputs.cache
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\NetFramework.S12.D1.KalitimNedir\obj\Debug\NetFramework.S12.D1.KalitimNedir.exe
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\NetFramework.S12.D1.KalitimNedir\obj\Debug\NetFramework.S12.D1.KalitimNedir.pdb
