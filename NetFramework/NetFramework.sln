@@ -31,6 +31,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetFramework.S11.D1.InnerTy
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetFramework.S12.D1.KalitimNedir", "..\NetFramework.S12.D1.KalitimNedir\NetFramework.S12.D1.KalitimNedir.csproj", "{841EF2FC-2B19-4522-A57A-D2DF4E904B4E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetFramework.S12.D2.KalitimOdevUygulamasi", "..\NetFramework.S12.D2.KalitimOdevUygulamasi\NetFramework.S12.D2.KalitimOdevUygulamasi.csproj", "{CDB8EF02-32EF-4F4E-95CE-A0E8A7234611}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetFramework.S13.D1.SanalMetotNedir", "..\NetFramework.S13.D1.SanalMetotNedir\NetFramework.S13.D1.SanalMetotNedir.csproj", "{CE2F6031-8B5F-4C3A-853C-7CE160B08E3F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +97,14 @@ Global
 		{841EF2FC-2B19-4522-A57A-D2DF4E904B4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{841EF2FC-2B19-4522-A57A-D2DF4E904B4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{841EF2FC-2B19-4522-A57A-D2DF4E904B4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CDB8EF02-32EF-4F4E-95CE-A0E8A7234611}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDB8EF02-32EF-4F4E-95CE-A0E8A7234611}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDB8EF02-32EF-4F4E-95CE-A0E8A7234611}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDB8EF02-32EF-4F4E-95CE-A0E8A7234611}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE2F6031-8B5F-4C3A-853C-7CE160B08E3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE2F6031-8B5F-4C3A-853C-7CE160B08E3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE2F6031-8B5F-4C3A-853C-7CE160B08E3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE2F6031-8B5F-4C3A-853C-7CE160B08E3F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

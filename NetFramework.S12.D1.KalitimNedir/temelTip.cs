@@ -36,5 +36,10 @@ namespace NetFramework.S12.D1.KalitimNedir
         {
             Console.WriteLine("Temel Tip => Metot 1");
         }
+
+        protected void TemelTipMetot2()
+        {
+            Console.WriteLine("Protected metot");
+        }
     }
 }

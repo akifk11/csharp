@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace NetFramework.S12.D1.KalitimNedir
 {
-    public class Ogrenci:temelTip
+    public sealed class Ogrenci:temelTip
     {
         public string bolum { get; set; }
         public int seviye { get; set; }
@@ -14,7 +14,7 @@ namespace NetFramework.S12.D1.KalitimNedir
         public Ogrenci() 
         {
             Console.WriteLine("Ogrenci nesnesi çalıştı");
-        
+            // TemelTipMetot2(); protected olarak işaretlendiği için ve bu nesne kendisini temelTip nesnesinden kalıttığı için erişile bildi.
         }
     }
 }

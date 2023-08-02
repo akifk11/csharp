@@ -51,12 +51,39 @@ namespace NetFramework.S12.D1.KalitimNedir
 
            // // obje nesnesi burada diyorki herşey benden türediği için ben hepsini tanırım
 
-            Personel P1 = new Personel();
-            P1.TemelTipMetot1();
+            //Personel P1 = new Personel();
+            //P1.TemelTipMetot1();
 
-            Ogrenci O1 = new Ogrenci();
-            O1.TemelTipMetot1();
+            //Ogrenci O1 = new Ogrenci();
+            //O1.TemelTipMetot1();
 
+            //object Obj1 = O1;
+            //O1 = (Ogrenci)Obj1;
+
+            //Obj1 = P1;
+            //P1 = (Personel)Obj1;
+
+            // Ben istiyorum ki türemiş olan tiplerim türeyemesin
+            // object => temelTip => Personel => 
+            //                    => Ogrenci => X
+            //                    => Egitmen => X
+            //Test T1 = new Test();
+            //T1.
+
+            // Hangi nesnemizin kalıtılmasını istemiyoruz ?
+            // Egitmen sealed
+
+            Egitmen E1 = new Egitmen();
+
+            // Egitmen => Personel => Temeltip => Object
+            // Object => TemelTip => Personel => Egitmen
+
+            // public : uygulama içerisinde veya dışarısında heryerden erişilebilir anlamı taşır
+            // private : sadece tanımlandığı class içerisinden erişilebilir
+            // protected : Normal kullanımda private gibi davranır.Kalıtım durumlarında kullanılabilir.
+
+            temelTip T1 = new temelTip();
+            // T1.TemelTipMetot2(); protected olduğu için çağıramıyorum
         }
     }
 }

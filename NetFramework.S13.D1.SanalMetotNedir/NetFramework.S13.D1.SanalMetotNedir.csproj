@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{841EF2FC-2B19-4522-A57A-D2DF4E904B4E}</ProjectGuid>
+    <ProjectGuid>{CE2F6031-8B5F-4C3A-853C-7CE160B08E3F}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>NetFramework.S12.D1.KalitimNedir</RootNamespace>
-    <AssemblyName>NetFramework.S12.D1.KalitimNedir</AssemblyName>
+    <RootNamespace>NetFramework.S13.D1.SanalMetotNedir</RootNamespace>
+    <AssemblyName>NetFramework.S13.D1.SanalMetotNedir</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,13 +43,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Egitmen.cs" />
-    <Compile Include="Ogrenci.cs" />
-    <Compile Include="Personel.cs" />
+    <Compile Include="Musteri.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="temelTip.cs" />
-    <Compile Include="Test.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

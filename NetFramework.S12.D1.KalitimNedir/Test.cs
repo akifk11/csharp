@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace NetFramework.S12.D1.KalitimNedir
 {
-    internal class Test
+    public class Test
     {
+
     }
 }
