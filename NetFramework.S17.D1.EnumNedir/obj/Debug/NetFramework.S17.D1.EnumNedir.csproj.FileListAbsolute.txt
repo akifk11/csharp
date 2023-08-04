@@ -1,0 +1,8 @@
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\NetFramework.S17.D1.EnumNedir\bin\Debug\NetFramework.S17.D1.EnumNedir.exe.config
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\NetFramework.S17.D1.EnumNedir\bin\Debug\NetFramework.S17.D1.EnumNedir.exe
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\NetFramework.S17.D1.EnumNedir\bin\Debug\NetFramework.S17.D1.EnumNedir.pdb
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\NetFramework.S17.D1.EnumNedir\obj\Debug\NetFramework.S17.D1.EnumNedir.csproj.AssemblyReference.cache
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\NetFramework.S17.D1.EnumNedir\obj\Debug\NetFramework.S17.D1.EnumNedir.csproj.SuggestedBindingRedirects.cache
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\NetFramework.S17.D1.EnumNedir\obj\Debug\NetFramework.S17.D1.EnumNedir.csproj.CoreCompileInputs.cache
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\NetFramework.S17.D1.EnumNedir\obj\Debug\NetFramework.S17.D1.EnumNedir.exe
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\NetFramework.S17.D1.EnumNedir\obj\Debug\NetFramework.S17.D1.EnumNedir.pdb

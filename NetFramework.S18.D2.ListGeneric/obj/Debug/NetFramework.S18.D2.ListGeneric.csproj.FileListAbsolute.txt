@@ -1,0 +1,8 @@
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\NetFramework.S18.D2.ListGeneric\bin\Debug\NetFramework.S18.D2.ListGeneric.exe.config
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\NetFramework.S18.D2.ListGeneric\bin\Debug\NetFramework.S18.D2.ListGeneric.exe
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\NetFramework.S18.D2.ListGeneric\bin\Debug\NetFramework.S18.D2.ListGeneric.pdb
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\NetFramework.S18.D2.ListGeneric\obj\Debug\NetFramework.S18.D2.ListGeneric.csproj.AssemblyReference.cache
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\NetFramework.S18.D2.ListGeneric\obj\Debug\NetFramework.S18.D2.ListGeneric.csproj.SuggestedBindingRedirects.cache
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\NetFramework.S18.D2.ListGeneric\obj\Debug\NetFramework.S18.D2.ListGeneric.csproj.CoreCompileInputs.cache
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\NetFramework.S18.D2.ListGeneric\obj\Debug\NetFramework.S18.D2.ListGeneric.exe
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\NetFramework.S18.D2.ListGeneric\obj\Debug\NetFramework.S18.D2.ListGeneric.pdb

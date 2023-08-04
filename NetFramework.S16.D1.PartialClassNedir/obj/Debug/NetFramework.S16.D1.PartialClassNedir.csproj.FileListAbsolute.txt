@@ -1,0 +1,8 @@
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\NetFramework.S16.D1.PartialClassNedir\bin\Debug\NetFramework.S16.D1.PartialClassNedir.exe.config
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\NetFramework.S16.D1.PartialClassNedir\bin\Debug\NetFramework.S16.D1.PartialClassNedir.exe
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\NetFramework.S16.D1.PartialClassNedir\bin\Debug\NetFramework.S16.D1.PartialClassNedir.pdb
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\NetFramework.S16.D1.PartialClassNedir\obj\Debug\NetFramework.S16.D1.PartialClassNedir.csproj.AssemblyReference.cache
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\NetFramework.S16.D1.PartialClassNedir\obj\Debug\NetFramework.S16.D1.PartialClassNedir.csproj.SuggestedBindingRedirects.cache
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\NetFramework.S16.D1.PartialClassNedir\obj\Debug\NetFramework.S16.D1.PartialClassNedir.csproj.CoreCompileInputs.cache
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\NetFramework.S16.D1.PartialClassNedir\obj\Debug\NetFramework.S16.D1.PartialClassNedir.exe
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\NetFramework.S16.D1.PartialClassNedir\obj\Debug\NetFramework.S16.D1.PartialClassNedir.pdb

@@ -1,0 +1,8 @@
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\NetFramework.S14.D1.AbstractNedir\bin\Debug\NetFramework.S14.D1.AbstractNedir.exe.config
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\NetFramework.S14.D1.AbstractNedir\bin\Debug\NetFramework.S14.D1.AbstractNedir.exe
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\NetFramework.S14.D1.AbstractNedir\bin\Debug\NetFramework.S14.D1.AbstractNedir.pdb
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\NetFramework.S14.D1.AbstractNedir\obj\Debug\NetFramework.S14.D1.AbstractNedir.csproj.AssemblyReference.cache
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\NetFramework.S14.D1.AbstractNedir\obj\Debug\NetFramework.S14.D1.AbstractNedir.csproj.SuggestedBindingRedirects.cache
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\NetFramework.S14.D1.AbstractNedir\obj\Debug\NetFramework.S14.D1.AbstractNedir.csproj.CoreCompileInputs.cache
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\NetFramework.S14.D1.AbstractNedir\obj\Debug\NetFramework.S14.D1.AbstractNedir.exe
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\NetFramework.S14.D1.AbstractNedir\obj\Debug\NetFramework.S14.D1.AbstractNedir.pdb
