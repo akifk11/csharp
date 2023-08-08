@@ -52,7 +52,7 @@ namespace NetFramework.S18.D2.ListGeneric
             foreach(musteri item in musteriListe)
             {
                 Console.WriteLine(item.isim);
-            }
+            } 
         }
     }
 }
