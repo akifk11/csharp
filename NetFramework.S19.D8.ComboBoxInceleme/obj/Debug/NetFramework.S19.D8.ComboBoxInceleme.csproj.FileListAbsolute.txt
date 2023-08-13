@@ -1,0 +1,11 @@
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\NetFramework.S19.D8.ComboBoxInceleme\bin\Debug\NetFramework.S19.D8.ComboBoxInceleme.exe.config
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\NetFramework.S19.D8.ComboBoxInceleme\bin\Debug\NetFramework.S19.D8.ComboBoxInceleme.exe
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\NetFramework.S19.D8.ComboBoxInceleme\bin\Debug\NetFramework.S19.D8.ComboBoxInceleme.pdb
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\NetFramework.S19.D8.ComboBoxInceleme\obj\Debug\NetFramework.S19.D8.ComboBoxInceleme.csproj.AssemblyReference.cache
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\NetFramework.S19.D8.ComboBoxInceleme\obj\Debug\NetFramework.S19.D8.ComboBoxInceleme.csproj.SuggestedBindingRedirects.cache
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\NetFramework.S19.D8.ComboBoxInceleme\obj\Debug\NetFramework.S19.D8.ComboBoxInceleme.Form1.resources
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\NetFramework.S19.D8.ComboBoxInceleme\obj\Debug\NetFramework.S19.D8.ComboBoxInceleme.Properties.Resources.resources
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\NetFramework.S19.D8.ComboBoxInceleme\obj\Debug\NetFramework.S19.D8.ComboBoxInceleme.csproj.GenerateResource.cache
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\NetFramework.S19.D8.ComboBoxInceleme\obj\Debug\NetFramework.S19.D8.ComboBoxInceleme.csproj.CoreCompileInputs.cache
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\NetFramework.S19.D8.ComboBoxInceleme\obj\Debug\NetFramework.S19.D8.ComboBoxInceleme.exe
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\NetFramework.S19.D8.ComboBoxInceleme\obj\Debug\NetFramework.S19.D8.ComboBoxInceleme.pdb

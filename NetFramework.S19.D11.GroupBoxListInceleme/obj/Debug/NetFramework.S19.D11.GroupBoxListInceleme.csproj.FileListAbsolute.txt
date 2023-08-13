@@ -1,0 +1,11 @@
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\NetFramework.S19.D11.GroupBoxListInceleme\bin\Debug\NetFramework.S19.D11.GroupBoxListInceleme.exe.config
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\NetFramework.S19.D11.GroupBoxListInceleme\bin\Debug\NetFramework.S19.D11.GroupBoxListInceleme.exe
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\NetFramework.S19.D11.GroupBoxListInceleme\bin\Debug\NetFramework.S19.D11.GroupBoxListInceleme.pdb
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\NetFramework.S19.D11.GroupBoxListInceleme\obj\Debug\NetFramework.S19.D11.GroupBoxListInceleme.csproj.AssemblyReference.cache
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\NetFramework.S19.D11.GroupBoxListInceleme\obj\Debug\NetFramework.S19.D11.GroupBoxListInceleme.csproj.SuggestedBindingRedirects.cache
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\NetFramework.S19.D11.GroupBoxListInceleme\obj\Debug\NetFramework.S19.D11.GroupBoxListInceleme.Form1.resources
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\NetFramework.S19.D11.GroupBoxListInceleme\obj\Debug\NetFramework.S19.D11.GroupBoxListInceleme.Properties.Resources.resources
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\NetFramework.S19.D11.GroupBoxListInceleme\obj\Debug\NetFramework.S19.D11.GroupBoxListInceleme.csproj.GenerateResource.cache
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\NetFramework.S19.D11.GroupBoxListInceleme\obj\Debug\NetFramework.S19.D11.GroupBoxListInceleme.csproj.CoreCompileInputs.cache
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\NetFramework.S19.D11.GroupBoxListInceleme\obj\Debug\NetFramework.S19.D11.GroupBoxListInceleme.exe
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\NetFramework.S19.D11.GroupBoxListInceleme\obj\Debug\NetFramework.S19.D11.GroupBoxListInceleme.pdb

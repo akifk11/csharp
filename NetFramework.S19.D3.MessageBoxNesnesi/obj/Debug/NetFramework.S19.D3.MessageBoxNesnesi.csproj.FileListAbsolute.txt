@@ -1,0 +1,11 @@
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\NetFramework.S19.D3.MessageBoxNesnesi\bin\Debug\NetFramework.S19.D3.MessageBoxNesnesi.exe.config
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\NetFramework.S19.D3.MessageBoxNesnesi\bin\Debug\NetFramework.S19.D3.MessageBoxNesnesi.exe
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\NetFramework.S19.D3.MessageBoxNesnesi\bin\Debug\NetFramework.S19.D3.MessageBoxNesnesi.pdb
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\NetFramework.S19.D3.MessageBoxNesnesi\obj\Debug\NetFramework.S19.D3.MessageBoxNesnesi.csproj.AssemblyReference.cache
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\NetFramework.S19.D3.MessageBoxNesnesi\obj\Debug\NetFramework.S19.D3.MessageBoxNesnesi.csproj.SuggestedBindingRedirects.cache
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\NetFramework.S19.D3.MessageBoxNesnesi\obj\Debug\NetFramework.S19.D3.MessageBoxNesnesi.Form1.resources
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\NetFramework.S19.D3.MessageBoxNesnesi\obj\Debug\NetFramework.S19.D3.MessageBoxNesnesi.Properties.Resources.resources
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\NetFramework.S19.D3.MessageBoxNesnesi\obj\Debug\NetFramework.S19.D3.MessageBoxNesnesi.csproj.GenerateResource.cache
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\NetFramework.S19.D3.MessageBoxNesnesi\obj\Debug\NetFramework.S19.D3.MessageBoxNesnesi.csproj.CoreCompileInputs.cache
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\NetFramework.S19.D3.MessageBoxNesnesi\obj\Debug\NetFramework.S19.D3.MessageBoxNesnesi.exe
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\NetFramework.S19.D3.MessageBoxNesnesi\obj\Debug\NetFramework.S19.D3.MessageBoxNesnesi.pdb

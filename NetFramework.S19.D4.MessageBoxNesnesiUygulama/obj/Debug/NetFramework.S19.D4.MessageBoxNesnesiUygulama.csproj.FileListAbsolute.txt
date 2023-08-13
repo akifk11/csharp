@@ -1,0 +1,11 @@
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\NetFramework.S19.D4.MessageBoxNesnesiUygulama\bin\Debug\NetFramework.S19.D4.MessageBoxNesnesiUygulama.exe.config
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\NetFramework.S19.D4.MessageBoxNesnesiUygulama\bin\Debug\NetFramework.S19.D4.MessageBoxNesnesiUygulama.exe
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\NetFramework.S19.D4.MessageBoxNesnesiUygulama\bin\Debug\NetFramework.S19.D4.MessageBoxNesnesiUygulama.pdb
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\NetFramework.S19.D4.MessageBoxNesnesiUygulama\obj\Debug\NetFramework.S19.D4.MessageBoxNesnesiUygulama.csproj.AssemblyReference.cache
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\NetFramework.S19.D4.MessageBoxNesnesiUygulama\obj\Debug\NetFramework.S19.D4.MessageBoxNesnesiUygulama.csproj.SuggestedBindingRedirects.cache
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\NetFramework.S19.D4.MessageBoxNesnesiUygulama\obj\Debug\NetFramework.S19.D4.MessageBoxNesnesiUygulama.Form1.resources
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\NetFramework.S19.D4.MessageBoxNesnesiUygulama\obj\Debug\NetFramework.S19.D4.MessageBoxNesnesiUygulama.Properties.Resources.resources
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\NetFramework.S19.D4.MessageBoxNesnesiUygulama\obj\Debug\NetFramework.S19.D4.MessageBoxNesnesiUygulama.csproj.GenerateResource.cache
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\NetFramework.S19.D4.MessageBoxNesnesiUygulama\obj\Debug\NetFramework.S19.D4.MessageBoxNesnesiUygulama.csproj.CoreCompileInputs.cache
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\NetFramework.S19.D4.MessageBoxNesnesiUygulama\obj\Debug\NetFramework.S19.D4.MessageBoxNesnesiUygulama.exe
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\NetFramework.S19.D4.MessageBoxNesnesiUygulama\obj\Debug\NetFramework.S19.D4.MessageBoxNesnesiUygulama.pdb

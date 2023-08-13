@@ -1,0 +1,11 @@
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\NetFramework.S19.D7.DinamikFormElemanlari\bin\Debug\NetFramework.S19.D7.DinamikFormElemanlari.exe.config
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\NetFramework.S19.D7.DinamikFormElemanlari\bin\Debug\NetFramework.S19.D7.DinamikFormElemanlari.exe
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\NetFramework.S19.D7.DinamikFormElemanlari\bin\Debug\NetFramework.S19.D7.DinamikFormElemanlari.pdb
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\NetFramework.S19.D7.DinamikFormElemanlari\obj\Debug\NetFramework.S19.D7.DinamikFormElemanlari.csproj.AssemblyReference.cache
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\NetFramework.S19.D7.DinamikFormElemanlari\obj\Debug\NetFramework.S19.D7.DinamikFormElemanlari.csproj.SuggestedBindingRedirects.cache
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\NetFramework.S19.D7.DinamikFormElemanlari\obj\Debug\NetFramework.S19.D7.DinamikFormElemanlari.Form1.resources
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\NetFramework.S19.D7.DinamikFormElemanlari\obj\Debug\NetFramework.S19.D7.DinamikFormElemanlari.Properties.Resources.resources
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\NetFramework.S19.D7.DinamikFormElemanlari\obj\Debug\NetFramework.S19.D7.DinamikFormElemanlari.csproj.GenerateResource.cache
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\NetFramework.S19.D7.DinamikFormElemanlari\obj\Debug\NetFramework.S19.D7.DinamikFormElemanlari.csproj.CoreCompileInputs.cache
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\NetFramework.S19.D7.DinamikFormElemanlari\obj\Debug\NetFramework.S19.D7.DinamikFormElemanlari.exe
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\NetFramework.S19.D7.DinamikFormElemanlari\obj\Debug\NetFramework.S19.D7.DinamikFormElemanlari.pdb

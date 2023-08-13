@@ -1,0 +1,12 @@
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\NetFramework.S19.D9.ListBoxInceleme\bin\Debug\NetFramework.S19.D9.ListBoxInceleme.exe.config
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\NetFramework.S19.D9.ListBoxInceleme\bin\Debug\NetFramework.S19.D9.ListBoxInceleme.exe
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\NetFramework.S19.D9.ListBoxInceleme\bin\Debug\NetFramework.S19.D9.ListBoxInceleme.pdb
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\NetFramework.S19.D9.ListBoxInceleme\obj\Debug\NetFramework.S19.D9.ListBoxInceleme.csproj.AssemblyReference.cache
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\NetFramework.S19.D9.ListBoxInceleme\obj\Debug\NetFramework.S19.D9.ListBoxInceleme.csproj.SuggestedBindingRedirects.cache
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\NetFramework.S19.D9.ListBoxInceleme\obj\Debug\NetFramework.S19.D9.ListBoxInceleme.Form1.resources
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\NetFramework.S19.D9.ListBoxInceleme\obj\Debug\NetFramework.S19.D9.ListBoxInceleme.Properties.Resources.resources
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\NetFramework.S19.D9.ListBoxInceleme\obj\Debug\NetFramework.S19.D9.ListBoxInceleme.csproj.GenerateResource.cache
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\NetFramework.S19.D9.ListBoxInceleme\obj\Debug\NetFramework.S19.D9.ListBoxInceleme.csproj.CoreCompileInputs.cache
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\NetFramework.S19.D9.ListBoxInceleme\obj\Debug\NetFramework.S19.D9.ListBoxInceleme.exe
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\NetFramework.S19.D9.ListBoxInceleme\obj\Debug\NetFramework.S19.D9.ListBoxInceleme.pdb
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\NetFramework.S19.D9.ListBoxInceleme\obj\Debug\NetFramework.S19.D9.ListBoxInceleme.UrunSecimKullanici.resources

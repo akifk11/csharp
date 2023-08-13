@@ -1,0 +1,11 @@
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\NetFramework.S19.D13.DataGridViewImage\bin\Debug\NetFramework.S19.D13.DataGridViewImage.exe.config
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\NetFramework.S19.D13.DataGridViewImage\bin\Debug\NetFramework.S19.D13.DataGridViewImage.exe
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\NetFramework.S19.D13.DataGridViewImage\bin\Debug\NetFramework.S19.D13.DataGridViewImage.pdb
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\NetFramework.S19.D13.DataGridViewImage\obj\Debug\NetFramework.S19.D13.DataGridViewImage.csproj.AssemblyReference.cache
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\NetFramework.S19.D13.DataGridViewImage\obj\Debug\NetFramework.S19.D13.DataGridViewImage.csproj.SuggestedBindingRedirects.cache
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\NetFramework.S19.D13.DataGridViewImage\obj\Debug\NetFramework.S19.D13.DataGridViewImage.Form1.resources
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\NetFramework.S19.D13.DataGridViewImage\obj\Debug\NetFramework.S19.D13.DataGridViewImage.Properties.Resources.resources
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\NetFramework.S19.D13.DataGridViewImage\obj\Debug\NetFramework.S19.D13.DataGridViewImage.csproj.GenerateResource.cache
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\NetFramework.S19.D13.DataGridViewImage\obj\Debug\NetFramework.S19.D13.DataGridViewImage.csproj.CoreCompileInputs.cache
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\NetFramework.S19.D13.DataGridViewImage\obj\Debug\NetFramework.S19.D13.DataGridViewImage.exe
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\NetFramework.S19.D13.DataGridViewImage\obj\Debug\NetFramework.S19.D13.DataGridViewImage.pdb

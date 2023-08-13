@@ -1,0 +1,8 @@
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\Udemy.SystemIO\Udemy.SystemIO\bin\Debug\Udemy.SystemIO.exe.config
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\Udemy.SystemIO\Udemy.SystemIO\bin\Debug\Udemy.SystemIO.exe
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\Udemy.SystemIO\Udemy.SystemIO\bin\Debug\Udemy.SystemIO.pdb
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\Udemy.SystemIO\Udemy.SystemIO\obj\Debug\Udemy.SystemIO.csproj.AssemblyReference.cache
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\Udemy.SystemIO\Udemy.SystemIO\obj\Debug\Udemy.SystemIO.csproj.SuggestedBindingRedirects.cache
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\Udemy.SystemIO\Udemy.SystemIO\obj\Debug\Udemy.SystemIO.csproj.CoreCompileInputs.cache
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\Udemy.SystemIO\Udemy.SystemIO\obj\Debug\Udemy.SystemIO.exe
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\Udemy.SystemIO\Udemy.SystemIO\obj\Debug\Udemy.SystemIO.pdb

@@ -1,0 +1,15 @@
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\NetFramework.S19.D12.FakeDataGridView\bin\Debug\NetFramework.S19.D12.FakeDataGridView.exe.config
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\NetFramework.S19.D12.FakeDataGridView\bin\Debug\NetFramework.S19.D12.FakeDataGridView.exe
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\NetFramework.S19.D12.FakeDataGridView\bin\Debug\NetFramework.S19.D12.FakeDataGridView.pdb
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\NetFramework.S19.D12.FakeDataGridView\bin\Debug\FakeData.dll
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\NetFramework.S19.D12.FakeDataGridView\bin\Debug\FakeData.pdb
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\NetFramework.S19.D12.FakeDataGridView\obj\Debug\NetFramework.S19.D12.FakeDataGridView.csproj.AssemblyReference.cache
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\NetFramework.S19.D12.FakeDataGridView\obj\Debug\NetFramework.S19.D12.FakeDataGridView.csproj.SuggestedBindingRedirects.cache
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\NetFramework.S19.D12.FakeDataGridView\obj\Debug\NetFramework.S19.D12.FakeDataGridView.Properties.Resources.resources
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\NetFramework.S19.D12.FakeDataGridView\obj\Debug\NetFramework.S19.D12.FakeDataGridView.csproj.GenerateResource.cache
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\NetFramework.S19.D12.FakeDataGridView\obj\Debug\NetFramework.S19.D12.FakeDataGridView.csproj.CoreCompileInputs.cache
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\NetFramework.S19.D12.FakeDataGridView\obj\Debug\NetFramework.S19.D12.FakeDataGridView.csproj.CopyComplete
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\NetFramework.S19.D12.FakeDataGridView\obj\Debug\NetFramework.S19.D12.FakeDataGridView.exe
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\NetFramework.S19.D12.FakeDataGridView\obj\Debug\NetFramework.S19.D12.FakeDataGridView.pdb
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\NetFramework.S19.D12.FakeDataGridView\obj\Debug\NetFramework.S19.D12.FakeDataGridView.Form1.resources
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\NetFramework.S19.D12.FakeDataGridView\obj\Debug\NetFramework.S19.D12.FakeDataGridView.popupMesaj.resources

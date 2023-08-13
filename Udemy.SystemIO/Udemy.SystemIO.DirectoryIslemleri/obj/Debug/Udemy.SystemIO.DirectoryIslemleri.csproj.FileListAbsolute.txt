@@ -1,0 +1,8 @@
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\Udemy.SystemIO\Udemy.SystemIO.DirectoryIslemleri\bin\Debug\Udemy.SystemIO.DirectoryIslemleri.exe.config
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\Udemy.SystemIO\Udemy.SystemIO.DirectoryIslemleri\bin\Debug\Udemy.SystemIO.DirectoryIslemleri.exe
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\Udemy.SystemIO\Udemy.SystemIO.DirectoryIslemleri\bin\Debug\Udemy.SystemIO.DirectoryIslemleri.pdb
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\Udemy.SystemIO\Udemy.SystemIO.DirectoryIslemleri\obj\Debug\Udemy.SystemIO.DirectoryIslemleri.csproj.AssemblyReference.cache
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\Udemy.SystemIO\Udemy.SystemIO.DirectoryIslemleri\obj\Debug\Udemy.SystemIO.DirectoryIslemleri.csproj.SuggestedBindingRedirects.cache
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\Udemy.SystemIO\Udemy.SystemIO.DirectoryIslemleri\obj\Debug\Udemy.SystemIO.DirectoryIslemleri.csproj.CoreCompileInputs.cache
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\Udemy.SystemIO\Udemy.SystemIO.DirectoryIslemleri\obj\Debug\Udemy.SystemIO.DirectoryIslemleri.exe
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\Udemy.SystemIO\Udemy.SystemIO.DirectoryIslemleri\obj\Debug\Udemy.SystemIO.DirectoryIslemleri.pdb

@@ -1,0 +1,11 @@
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\NetFramework.S19.D5.ModelModelLess\bin\Debug\NetFramework.S19.D5.ModelModelLess.exe.config
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\NetFramework.S19.D5.ModelModelLess\bin\Debug\NetFramework.S19.D5.ModelModelLess.exe
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\NetFramework.S19.D5.ModelModelLess\bin\Debug\NetFramework.S19.D5.ModelModelLess.pdb
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\NetFramework.S19.D5.ModelModelLess\obj\Debug\NetFramework.S19.D5.ModelModelLess.csproj.AssemblyReference.cache
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\NetFramework.S19.D5.ModelModelLess\obj\Debug\NetFramework.S19.D5.ModelModelLess.csproj.SuggestedBindingRedirects.cache
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\NetFramework.S19.D5.ModelModelLess\obj\Debug\NetFramework.S19.D5.ModelModelLess.Form1.resources
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\NetFramework.S19.D5.ModelModelLess\obj\Debug\NetFramework.S19.D5.ModelModelLess.Properties.Resources.resources
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\NetFramework.S19.D5.ModelModelLess\obj\Debug\NetFramework.S19.D5.ModelModelLess.csproj.GenerateResource.cache
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\NetFramework.S19.D5.ModelModelLess\obj\Debug\NetFramework.S19.D5.ModelModelLess.csproj.CoreCompileInputs.cache
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\NetFramework.S19.D5.ModelModelLess\obj\Debug\NetFramework.S19.D5.ModelModelLess.exe
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\NetFramework.S19.D5.ModelModelLess\obj\Debug\NetFramework.S19.D5.ModelModelLess.pdb

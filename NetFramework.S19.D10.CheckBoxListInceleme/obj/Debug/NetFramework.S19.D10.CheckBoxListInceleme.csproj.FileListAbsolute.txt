@@ -1,0 +1,11 @@
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\NetFramework.S19.D10.CheckBoxListInceleme\bin\Debug\NetFramework.S19.D10.CheckBoxListInceleme.exe.config
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\NetFramework.S19.D10.CheckBoxListInceleme\bin\Debug\NetFramework.S19.D10.CheckBoxListInceleme.exe
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\NetFramework.S19.D10.CheckBoxListInceleme\bin\Debug\NetFramework.S19.D10.CheckBoxListInceleme.pdb
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\NetFramework.S19.D10.CheckBoxListInceleme\obj\Debug\NetFramework.S19.D10.CheckBoxListInceleme.csproj.AssemblyReference.cache
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\NetFramework.S19.D10.CheckBoxListInceleme\obj\Debug\NetFramework.S19.D10.CheckBoxListInceleme.csproj.SuggestedBindingRedirects.cache
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\NetFramework.S19.D10.CheckBoxListInceleme\obj\Debug\NetFramework.S19.D10.CheckBoxListInceleme.Form1.resources
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\NetFramework.S19.D10.CheckBoxListInceleme\obj\Debug\NetFramework.S19.D10.CheckBoxListInceleme.Properties.Resources.resources
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\NetFramework.S19.D10.CheckBoxListInceleme\obj\Debug\NetFramework.S19.D10.CheckBoxListInceleme.csproj.GenerateResource.cache
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\NetFramework.S19.D10.CheckBoxListInceleme\obj\Debug\NetFramework.S19.D10.CheckBoxListInceleme.csproj.CoreCompileInputs.cache
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\NetFramework.S19.D10.CheckBoxListInceleme\obj\Debug\NetFramework.S19.D10.CheckBoxListInceleme.exe
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\NetFramework.S19.D10.CheckBoxListInceleme\obj\Debug\NetFramework.S19.D10.CheckBoxListInceleme.pdb
