@@ -1,0 +1,14 @@
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\Udemy.SystemIO\SystemIOWinForm\bin\Debug\SystemIOWinForm.exe.config
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\Udemy.SystemIO\SystemIOWinForm\bin\Debug\SystemIOWinForm.exe
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\Udemy.SystemIO\SystemIOWinForm\bin\Debug\SystemIOWinForm.pdb
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\Udemy.SystemIO\SystemIOWinForm\bin\Debug\FakeData.dll
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\Udemy.SystemIO\SystemIOWinForm\bin\Debug\FakeData.pdb
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\Udemy.SystemIO\SystemIOWinForm\obj\Debug\SystemIOWinForm.csproj.AssemblyReference.cache
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\Udemy.SystemIO\SystemIOWinForm\obj\Debug\SystemIOWinForm.csproj.SuggestedBindingRedirects.cache
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\Udemy.SystemIO\SystemIOWinForm\obj\Debug\SystemIOWinForm.Form1.resources
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\Udemy.SystemIO\SystemIOWinForm\obj\Debug\SystemIOWinForm.Properties.Resources.resources
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\Udemy.SystemIO\SystemIOWinForm\obj\Debug\SystemIOWinForm.csproj.GenerateResource.cache
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\Udemy.SystemIO\SystemIOWinForm\obj\Debug\SystemIOWinForm.csproj.CoreCompileInputs.cache
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\Udemy.SystemIO\SystemIOWinForm\obj\Debug\SystemIOWinForm.csproj.CopyComplete
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\Udemy.SystemIO\SystemIOWinForm\obj\Debug\SystemIOWinForm.exe
+C:\Users\akifk\OneDrive\Belgeler\GitHub\csharp\Udemy.SystemIO\SystemIOWinForm\obj\Debug\SystemIOWinForm.pdb

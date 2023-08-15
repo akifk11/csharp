@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Udemy.SystemIO.DirectoryIsl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Udemy.SystemIO.FileIslemleri", "Udemy.SystemIO.FileIslemleri\Udemy.SystemIO.FileIslemleri.csproj", "{999CA223-DE20-421F-A7BC-DDE844166A91}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SystemIOWinForm", "SystemIOWinForm\SystemIOWinForm.csproj", "{59AFB6D3-D03B-4921-865C-922DB1A909BC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{999CA223-DE20-421F-A7BC-DDE844166A91}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{999CA223-DE20-421F-A7BC-DDE844166A91}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{999CA223-DE20-421F-A7BC-DDE844166A91}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59AFB6D3-D03B-4921-865C-922DB1A909BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59AFB6D3-D03B-4921-865C-922DB1A909BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59AFB6D3-D03B-4921-865C-922DB1A909BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59AFB6D3-D03B-4921-865C-922DB1A909BC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
